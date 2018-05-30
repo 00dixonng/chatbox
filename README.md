@@ -1,14 +1,20 @@
-Please follow the settings for Simple Message box:
-
+# Simple Message box:
+## Installation
+```
 npm install -g create-react-app
-
+```
+```
 create-react-app chatbox
-
+```
+```
 cd chatbox
-
+```
+```
 yarn add firebase --dev
-
+```
+```
 yarn start
+```
 
 NB: If there is E404 on protobufjs then try: 
 npm install npm@4 (older version)
