@@ -42,6 +42,6 @@ npm install -g npm@latest (later version)
 
 Or try google searching for the latest fixup. 
 
-## Demo
+## Demo (Try using with two browsers)
 
 ![alt text](https://github.com/00dixonng/chatbox/blob/master/messagebox.png)
