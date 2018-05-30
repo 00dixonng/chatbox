@@ -46,4 +46,4 @@ Or try google searching for the latest fixup.
 
 ![alt text](https://github.com/00dixonng/chatbox/blob/master/messagebox.png)
 
-They will update according to the update of the Firebase database.
+They will share messages and display the message by the username from the Firebase database.
