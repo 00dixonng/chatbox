@@ -31,3 +31,5 @@ npm i protobufjs@^5.0.3 --registry=https://registry.npm.taobao.org
 npm install -g npm@latest (later version)
 
 Easy messaging box.
+
+![alt text](https://github.com/00dixonng/chatbox/blob/master/messagebox.png)
